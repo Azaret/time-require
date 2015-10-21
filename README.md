@@ -7,7 +7,15 @@ My personal preferences for [time-require](https://github.com/jaguard/time-requi
 ## Install
 
 ```sh
-$ npm i jonschlinkert/time-require
+$ npm i azaret/time-require
+```
+
+```json
+{
+    "dependencies": {
+        "time-require": "https://github.com/azaret/time-require/archive/v0.1.3.tar.gz"
+    }
+}
 ```
 
 ## Usage
